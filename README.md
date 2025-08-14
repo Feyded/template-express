@@ -2,7 +2,7 @@
 
 Template Express Repo By Dean Zaballero
 
-This project is built using **Node.js**, **Express**, **TypeScript**, **Prisma**, and **MySQL** to provide a robust and scalable API for managing NSJ Tech services and data.
+This project is built using **Node.js**, **Express**, **TypeScript**, **Prisma**, and **MySQL** to provide a robust and scalable API
 
 ---
 
