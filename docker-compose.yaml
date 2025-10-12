@@ -9,7 +9,7 @@ services:
       MYSQL_PASSWORD: ${DB_PASSWORD}
       MYSQL_DATABASE: ${MYSQL_DATABASE}
       MYSQL_ROOT_PASSWORD: ${DB_ROOT_PASSWORD}
-      DATABASE_URL: "mysql://root:password@mysql:3306/nsj-tech"
+      DATABASE_URL: "mysql://root:YOUR_PASSWORD@mysql:3306/YOU_DATABASE_NAME"
     ports:
       - "3306:3306"
     volumes:
